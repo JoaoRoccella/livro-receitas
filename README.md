@@ -4,3 +4,4 @@ Olá! Bem vindo
 
 - Lasanha de berinjela
 - Pão ázimo
+- Bolo de chocolate
